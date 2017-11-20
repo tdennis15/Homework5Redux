@@ -21,6 +21,7 @@ CREATE TABLE dbo.Users
 );
 
 INSERT INTO dbo.Users (FirstName, MiddleName, LastName, DOB, NAddress, NCity, NState, NZipCode, NCounty, CurrDate) Values
-	('Adam','J','Jones','01/01/2001','123 fucks street','Salaam','Oregon','97301','Marion','11/01/2017');
+	('Adam','J','Jones','01/01/2001','123 fucks street','Salaam','Oregon','97301','Marion','11/01/2017'),
+	('Rebecca','L','Smith','09/23/1982','8671 Bonneville RD','Aurora','Oregon','97002','Marion','09/15/2017');
 
 GO
