@@ -29,5 +29,7 @@ namespace Homework5.Models
 
         public DateTime CurrDate { get; set; }
 
+
+
     }
 }
