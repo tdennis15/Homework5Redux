@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD:Homework5/Homework5/Homework5.sln
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5", "Homework5\Homework5.csproj", "{6CC0C462-6F80-4E33-AA2D-77E893832CA5}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5", "Homework5\Homework5.csproj", "{FFD6485B-2F92-4152-9BC0-F3D4704BBD35}"
+>>>>>>> Views:Homework5/Homework5.sln
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD:Homework5/Homework5/Homework5.sln
 		{6CC0C462-6F80-4E33-AA2D-77E893832CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6CC0C462-6F80-4E33-AA2D-77E893832CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CC0C462-6F80-4E33-AA2D-77E893832CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CC0C462-6F80-4E33-AA2D-77E893832CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{FFD6485B-2F92-4152-9BC0-F3D4704BBD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD6485B-2F92-4152-9BC0-F3D4704BBD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD6485B-2F92-4152-9BC0-F3D4704BBD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD6485B-2F92-4152-9BC0-F3D4704BBD35}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Views:Homework5/Homework5.sln
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD:Homework5/Homework5/Homework5.sln
 		SolutionGuid = {CD91998E-02F9-4530-86C2-430A85A4F947}
+=======
+		SolutionGuid = {4F12C7BA-5096-4E9B-AF83-3A0AA35DAB21}
+>>>>>>> Views:Homework5/Homework5.sln
 	EndGlobalSection
 EndGlobal
